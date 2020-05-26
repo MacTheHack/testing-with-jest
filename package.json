@@ -1,0 +1,19 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "labb",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacTheHack/testing-with-jest.git"
+  },
+  "author": "markus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MacTheHack/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/MacTheHack/testing-with-jest#readme"
+}
